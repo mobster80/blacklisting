@@ -46,3 +46,8 @@
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 acfeedbackws.icloud.com
+0.0.0.0 feedbackws.icloud.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 messaging.metrics.icloud.com
+0.0.0.0 metrics-config.icloud.com
